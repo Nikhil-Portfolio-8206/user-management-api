@@ -4,7 +4,7 @@ A production-style **User Management REST API** built using **Java 25**, **Sprin
 
 This project demonstrates backend development best practices including layered architecture, DTO pattern, request validation, global exception handling, RESTful API design, Swagger/OpenAPI documentation, CORS configuration, and structured logging.
 
-The project was built from scratch to gain a deep understanding of Spring Boot and to serve as a portfolio project for Java Backend Developer roles.
+
 
 ---
 
